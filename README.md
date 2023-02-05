@@ -1,2 +1,2 @@
 # git_test
-Odin project GitHub repo!
+Odin project GitHub test repo!
